@@ -11,7 +11,7 @@ ___________
 
 ## Ortaya Çıkarılan Örnekler ve (varsa) Açıklamaları
 
-* Ben de **4tw duhj sonea** 5.30 **glv evdeb** çıkışa okey **olnayo** istiyorum **vanıl**.
+*Ben de **4tw duhj sonea** 5.30 **glv evdeb** çıkışa okey **olnayo** istiyorum **vanıl**.
 
 | Hazalca      | Türkçe Meali      |   
 |:-------------|:------------------|
