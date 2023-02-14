@@ -32,22 +32,28 @@ ___________
 
 * Şimdi park ettim Urfaya gidiyorum.
 
-    Burada Hazal Dili'nden yeni bir örnek görmüyor olsak da, Hazal Dili'ni Türkçe ile birlikte kullanmak
+    Burada Hazal Dili'nden yeni bir örnek görmüyor olsak da, Hazalımızın neden park edip Urfaya gittiğini merak ediyoruz.
 
 ___________
 
 
 * Hadi sen **girüyğlee**.
 
+    Gerçekten hiçbir fikrimiz yok.
+
 ___________
 
 
 * **Gğnayfın** canumm.
 
+    Sana da **gğnayfın** Hazal Mecit. (Günaydın denmeye çalıştığını zannediyoruz, ancak hiç belli olmaz.)
+
 ___________
 
 
 * Kargo aşırı tatlı biriydi.
+
+    Kargolar da bireylerdir! 
 
 ___________
 
