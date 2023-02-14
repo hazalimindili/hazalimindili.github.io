@@ -13,12 +13,12 @@ ___________
 
 * Ben de **4tw duhj sonea** 5.30 **glv evdeb** çıkışa okey **olnayo** istiyorum **vanıl**.
 
-    | Hazalca      | Türkçe Meali      |   
-    |:-------------|:------------------|
-    | 4tw duhj sonea| 4te duş sonra |
-    | glv evdeb | ?? evden |
-    | olnayo | olmayı |
-    | vanıl | ?? |
+| Hazalca      | Türkçe Meali      |   
+|:-------------|:------------------|
+| 4tw duhj sonea| 4te duş sonra |
+| glv evdeb | ?? evden |
+| olnayo | olmayı |
+| vanıl | ?? |
 
 ___________
 
