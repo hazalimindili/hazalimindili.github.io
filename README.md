@@ -1,4 +1,3 @@
-#### [Home](https://hazalimindili.github.io)
 ___________
 
 ## Merhaba!
