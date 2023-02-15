@@ -13,14 +13,15 @@ ___________
 
 * Ben de **4tw duhj sonea** 5.30 **glv evdeb** çıkışa okey **olnayo** istiyorum **vanıl**.
 
+
 | Hazalca | Türkçe Meali |   
-|:--------:--------------|
+|---------|--------------|
 | 4tw duhj sonea | 4te duş sonra |
 | glv evdeb | ?? evden |
 | olnayo | olmayı |
 | vanıl | ?? |
 
-     _Kaydedilme tarihi: 31.12.2022_
+_Kaydedilme tarihi: 13.11.2022_
 
 ___________
 
