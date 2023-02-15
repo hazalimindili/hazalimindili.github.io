@@ -20,12 +20,16 @@ ___________
 | olnayo | olmayı |
 | vanıl | ?? |
 
+     _Kaydedilme tarihi: 31.12.2022_
+
 ___________
 
 
 * Şimdi mcde **kuryaran** 3 kişiyi izliycemm.
 
     **Editörün notu:** `Kuryaran` kelimesinin anlamı halen çözülememiştir.
+
+    _Kaydedilme tarihi: 13.11.2022_
 
 ___________
 
@@ -34,12 +38,16 @@ ___________
 
     Burada Hazalca'dan yeni bir örnek görmüyor olsak da, Hazalımızın neden park edip Urfaya gidiyor olduğunu merak ediyoruz.
 
+    _Kaydedilme tarihi: 26.08.2022_
+
 ___________
 
 
 * Hadi sen **girüyğlee**.
 
     Gerçekten hiçbir fikrimiz yok.
+
+    _Kaydedilme tarihi: 30.06.2022_
 
 ___________
 
@@ -48,6 +56,8 @@ ___________
 
     Sana da **gğnayfın** Hazal Mecit. (Günaydın denmeye çalıştığını zannediyoruz, ancak hiç belli olmaz).
 
+    _Kaydedilme tarihi: 31.05.2022_
+
 ___________
 
 
@@ -55,15 +65,14 @@ ___________
 
     Kargolar da bireylerdir! (ve gerçekten de gayet tatlı olabilirler).
 
-___________
-
-
-* Tamam **sevdilim.**
+    _Kaydedilme tarihi: 29.05.2022_
 
 ___________
 
 
 * Ben yola **düşünüyorum**.
+
+    _Kaydedilme tarihi: 04.02.2022_
 
 ___________
 
@@ -72,15 +81,15 @@ ___________
 
     `İstilate` kelimesinin İngilizce kökenli olduğu ve Hazalca'ya `How I Met Your Mother?` dizisi sayesinde girdiği iddia edilmektedir. Ancak, ne yazık ki, kelimenin Türkçe anlamı halen bulunamamıştır.
 
-___________
-
-
-* **Anlafom** sevgilim.
+    _Kaydedilme tarihi: 03.02.2022_
 
 ___________
 
 
 * Bi **monı** daha halletmem lazım.
+
+
+    _Kaydedilme tarihi: 29.12.2021_
 
 ___________
 
@@ -89,19 +98,27 @@ ___________
 
     Burada Hazalca dili kullanılarak yapılmış ilk yazım yanlışına rastlıyoruz. Doğrusu `Harxıyvam` şeklinde olan kelimenin Türkçe karşılığının `Harcayacağım` olduğu tahmin edilmektedir.
 
+    _Kaydedilme tarihi: 13.11.2021_
+
 ___________
 
 
 * 2 **dajşja** sonra ama.
+
+    _Kaydedilme tarihi: 17.08.2021_
 
 ___________
 
 
 * **Külube** hoşgeldin.
 
+    _Kaydedilme tarihi: 11.08.2021_
+
 ___________
 
 
 * **E-Nazım**
+
+    _Kaydedilme tarihi: Bilinmiyor_
 
 ___________
