@@ -2,7 +2,7 @@ ___________
 
 # Merhaba!
 
-Burası çok özel bir sayfa! Burada Hazal'ımın icat etmiş olduğu, ve aktif olarak kullandığı Hazal Dili'nden örnekler bulacaksınız. Zaman zaman karşımıza çıkarak bizleri büyüleyen bu örneklerin kayıtsız kalmaması adına bu web sayfası oluşturulmuştur. 
+Burası çok özel bir sayfa! Burada Hazal'ımın icat etmiş olduğu, ve aktif olarak kullandığı Hazalca'dan örnekler bulacaksınız. Zaman zaman karşımıza çıkarak bizleri büyüleyen bu örneklerin kayıtsız kalmaması adına bu web sayfası oluşturulmuştur. 
 
 **Önemli not:** Örneklerin hiçbiri üzerinde herhangi bir oynama yapılmamıştır, örnekler olduğu gibi sunulmaktadır. 
 
@@ -32,7 +32,7 @@ ___________
 
 * Şimdi park ettim Urfaya gidiyorum.
 
-    Burada Hazal Dili'nden yeni bir örnek görmüyor olsak da, Hazalımızın neden park edip Urfaya gittiğini merak ediyoruz.
+    Burada Hazalca'dan yeni bir örnek görmüyor olsak da, Hazalımızın neden park edip Urfaya gidiyor olduğunu merak ediyoruz.
 
 ___________
 
@@ -46,14 +46,14 @@ ___________
 
 * **Gğnayfın** canumm.
 
-    Sana da **gğnayfın** Hazal Mecit. (Günaydın denmeye çalıştığını zannediyoruz, ancak hiç belli olmaz.)
+    Sana da **gğnayfın** Hazal Mecit. (Günaydın denmeye çalıştığını zannediyoruz, ancak hiç belli olmaz).
 
 ___________
 
 
 * Kargo aşırı tatlı biriydi.
 
-    Kargolar da bireylerdir! 
+    Kargolar da bireylerdir! (ve gerçekten de gayet tatlı olabilirler).
 
 ___________
 
@@ -70,6 +70,8 @@ ___________
 
 * Yarın ona göre **istilate** ederiz.
 
+    `İstilate` kelimesinin İngilizce kökenli olduğu ve Hazalca'ya `How I Met Your Mother?` dizisi sayesinde girdiği iddia edilmektedir. Ancak, ne yazık ki, kelimenin Türkçe anlamı halen bulunamamıştır.
+
 ___________
 
 
@@ -85,6 +87,8 @@ ___________
 
 * Ama şimdi **harxıyvaö**.
 
+    Burada Hazalca dili kullanılarak yapılmış ilk yazım yanlışına rastlıyoruz. Doğrusu `Harxıyvam` şeklinde olan kelimenin Türkçe karşılığının `Harcayacağım` olduğu tahmin edilmektedir.
+
 ___________
 
 
@@ -98,3 +102,6 @@ ___________
 ___________
 
 
+* **E-Nazım**
+
+___________
