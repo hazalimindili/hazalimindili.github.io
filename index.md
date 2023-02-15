@@ -2,7 +2,7 @@ ___________
 
 # Merhaba!
 
-Burası çok özel bir sayfa! Burada Hazal'ımın icat etmiş olduğu, ve aktif olarak kullandığı Hazalca'dan örnekler bulacaksınız. Zaman zaman karşımıza çıkarak bizleri büyüleyen bu örneklerin kayıtsız kalmaması adına bu web sayfası oluşturulmuştur. 
+Burası çok özel bir sayfa! Burada Hazal'ımın icat etmiş olduğu, ve aktif olarak kullandığı Hazalca'dan örnekler bulacaksınız. Zaman zaman karşımıza çıkarak bizleri büyüleyen bu örneklerin unutulmaması adına bu web sayfası oluşturulmuştur. 
 
 **Önemli not:** Örneklerin hiçbiri üzerinde herhangi bir oynama yapılmamıştır, örnekler oldukları gibi sunulmaktadır. 
 
@@ -71,7 +71,9 @@ ___________
 ___________
 
 
-* Ben yola **düşünüyorum**.
+* Ben **yola düşünüyorum**.
+
+    Biricik Hazal'ımızın çok düşünceli bir insan olduğu yadsınamaz bir gerçektir. Ancak kendisinin **yola bile düşündüğünü** gerçekten hiç tahmin edemezdik.
 
     _Kaydedilme tarihi: 04.02.2022_
 
@@ -88,6 +90,8 @@ ___________
 
 
 * Bi **monı** daha halletmem lazım.
+
+    Umarız Hazal'ımız **monı**sını halledebilmiştir.
 
 
     _Kaydedilme tarihi: 29.12.2021_
@@ -106,12 +110,16 @@ ___________
 
 * 2 **dajşja** sonra ama.
 
+    Burada ise Hazalca dilininin ilk randomunu görüyor olmamız olası, ancak uzman dilbilimcilerimiz bu kelimenin aslında Türkçe'deki `Dakika` kelimesine denk olduğu konusunda ısrarcı.
+
     _Kaydedilme tarihi: 17.08.2021_
 
 ___________
 
 
 * **Külube** hoşgeldin.
+
+    Dövüş **Külubunun** ilk kuralı bu örnek üzerine daha fazla konuşmamızı engelliyor.
 
     _Kaydedilme tarihi: 11.08.2021_
 
@@ -120,6 +128,11 @@ ___________
 
 * **E-Nazım**
 
+    Hazalca'nın bilinen ilk kelimesi. Resmi kayıtlara geçmemiş olsa da, bu kelimenin Hazal tarafından kullanıldığı bilinen bir gerçektir.
+
     _Kaydedilme tarihi: Bilinmiyor_
 
 ___________
+
+
+Hazal'ımızı çok ama çoooooook seviyoruz :yellow_heart: **Girüyğlee!**
