@@ -21,7 +21,7 @@ ___________
 | olnayo | olmayı |
 | vanıl | ?? |
 
-_Kaydedilme tarihi: 13.11.2022_
+_Kaydedilme tarihi: 31.12.2022_
 
 ___________
 
