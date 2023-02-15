@@ -4,7 +4,7 @@ ___________
 
 Burası çok özel bir sayfa! Burada Hazal'ımın icat etmiş olduğu, ve aktif olarak kullandığı Hazalca'dan örnekler bulacaksınız. Zaman zaman karşımıza çıkarak bizleri büyüleyen bu örneklerin kayıtsız kalmaması adına bu web sayfası oluşturulmuştur. 
 
-**Önemli not:** Örneklerin hiçbiri üzerinde herhangi bir oynama yapılmamıştır, örnekler olduğu gibi sunulmaktadır. 
+**Önemli not:** Örneklerin hiçbiri üzerinde herhangi bir oynama yapılmamıştır, örnekler oldukları gibi sunulmaktadır. 
 
 ___________
 
