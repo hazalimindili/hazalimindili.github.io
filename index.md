@@ -128,7 +128,7 @@ ___________
 
 * **E-Nazım**
 
-    Hazalca'nın bilinen ilk kelimesi. Resmi kayıtlara geçmemiş olsa da, bu kelimenin Hazal tarafından kullanıldığı bilinen bir gerçektir.
+    Hazalca'nın bilinen ilk kelimesi. Resmi kayıtlara geçmemiş olsa da, bu kelimenin Hazal tarafından kullanıldığı bilinen bir gerçektir. **E-Nabız** platformunun Hazalca'daki karşılığı olduğu düşünülmektedir. Ancak Nazım Bey'in kim olduğu halen ortaya çıkarılamamıştır.
 
     _Kaydedilme tarihi: Bilinmiyor_
 
