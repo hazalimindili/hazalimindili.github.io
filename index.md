@@ -11,6 +11,40 @@ ___________
 
 ## Ortaya Çıkarılan Örnekler ve (varsa) Açıklamaları
 
+* Yerim **aipp**
+
+    Hazalca'da **aipp** şeklinde adlandırılan varlığın aslında yenilebilir bir bitki türü olduğu ortaya çıkmıştır. Sarı çiçeği, kısa boyu ve inanılmaz tatlılığıyla kalpleri fetheden bu güzel çiçeği, evet, bizler de yeriz...
+
+
+    _Kaydedilme tarihi: 26.03.2023_
+
+___________
+
+* **Vaf ak.**
+
+    Hazalca'nın kayıtlara geçen ilk küfrü. 
+
+
+    _Kaydedilme tarihi: 19.03.2023_
+
+___________
+
+* Bence bi tık **küçüklteliran.**
+
+    Bu kelime dil bilimcilerimizin karşısına ilk çıktığında, aslında birden fazla kelimenin birleşimi olduğu düşünülmüştü! **Küçük** - **lte** - **liran** şeklinde bir analiz yapıldıktan sonra, **lte** kelimesine bir anlam yüklenemediği için kelimenin aslının **küçüklteliran** şeklinde olması gerektiğine karar kılındı. Ancak bu kelimenin de anlamı henüz bulunamadı...
+
+    _Kaydedilme tarihi: 14.03.2023_
+
+___________
+
+* Ben o zaman 5te **i ga da 4teaende** olayım.
+
+    Saat 5'te biricik Hazalımıza tam olarak nelerin olduğunu anlayamadık. Sadece **i ga da 4teaende** olmanını iyi bir şey olduğunu umuyoruz.
+
+    _Kaydedilme tarihi: 28.02.2023_
+
+___________
+
 * Ben de **4tw duhj sonea** 5.30 **glv evdeb** çıkışa okey **olnayo** istiyorum **vanıl**.
 
 
@@ -133,6 +167,12 @@ ___________
     _Kaydedilme tarihi: Bilinmiyor_
 
 ___________
+
+
+
+
+
+
 
 
 Hazal'ımızı çok ama çoooooook seviyoruz :yellow_heart: **Girüyğlee!**
