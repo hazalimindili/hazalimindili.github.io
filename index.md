@@ -39,7 +39,7 @@ ___________
 
 * Ben o zaman 5te **i ga da 4teaende** olayım.
 
-    Saat 5'te biricik Hazalımıza tam olarak nelerin olduğunu anlayamadık. Sadece **i ga da 4teaende** olmanını iyi bir şey olduğunu umuyoruz.
+    Saat 5'te biricik Hazalımıza tam olarak nelerin olduğunu anlayamadık. Sadece saat 5te **i ga da 4teaende** durumunda olmanın iyi bir şey olduğunu umuyoruz.
 
     _Kaydedilme tarihi: 28.02.2023_
 
