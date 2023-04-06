@@ -144,7 +144,7 @@ ___________
 
 * 2 **dajşja** sonra ama.
 
-    Burada ise Hazalca dilininin ilk randomunu görüyor olmamız olası, ancak uzman dilbilimcilerimiz bu kelimenin aslında Türkçe'deki `Dakika` kelimesine denk olduğu konusunda ısrarcı.
+    Burada ise Hazalca dilininin ilk randomunu görüyor olmamız olası, ancak uzman dil bilimcilerimiz bu kelimenin aslında Türkçe'deki `Dakika` kelimesine denk olduğu konusunda ısrarcı.
 
     _Kaydedilme tarihi: 17.08.2021_
 
