@@ -51,7 +51,7 @@ ___________
 | Hazalca | Türkçe Meali |   
 |---------|--------------|
 | 4tw duhj sonea | 4te duş sonra |
-| glv evdeb | ?? evden |
+| glv evdeb | gibi evden |
 | olnayo | olmayı |
 | vanıl | ?? |
 
